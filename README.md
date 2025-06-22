@@ -6,7 +6,7 @@
 
 ➣ I work with PHP and JavaScript for the most part, but I also know HTML/CSS, MySQL, and various web frameworks. I like to use modern web technologies and focus on creating responsive, user-friendly applications.
 
-➣ You can contact me at: `FAFBIU23210@student.hcmiu.edu.vn`, phone `+84 878350279`, or my LinkedIn `linkedin.com/in/shayneeo/`
+➣ You can contact me at: `shayneeo@pt.io.vn`, Discord `ShayNeeo#8298`, or Telegram `https://t.me/shayneeo`
 
 ➣ **Current GPA**: 3.39/4 | **Languages**: Vietnamese (Native), English (Fluently), Mandarin (Beginner) | **Location**: Ho Chi Minh City, Vietnam
 
