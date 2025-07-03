@@ -18,9 +18,9 @@
 
 - **Portfolio & Blog**: [shayneeo.id.vn](https://shayneeo.id.vn) - Main portfolio with personal blog
 - **Portfolio Alternative**: [sgn.is-a.dev](https://sgn.is-a.dev) - Secondary portfolio site  
-- **Project Showcase**: [197866666.xyz](https://197866666.xyz) - Featured projects and demos
+- **Project Vocab App**: [vocab.qzz.io](https://vocab.qzz.io) - Featured projects and demos
 - **Tools & Utilities**: [133979.xyz](https://133979.xyz) - Web tools and utilities
-- **AI Chatbot**: [chatbot.shayneeo.id.vn](https://chatbot.shayneeo.id.vn) - Custom AI chat interface
+- **AI Chatbot**: [shayneeo.id.vn/chatbot](https://shayneeo.id.vn/chatbot) - Custom AI chat interface
 - **Private Search Engine**: [search.shayneeo.id.vn](https://search.shayneeo.id.vn) - Privacy-focused search
 
 ---
