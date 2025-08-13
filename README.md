@@ -7,15 +7,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=FF4B1F&center=true&vCenter=true&width=550&lines=Frontend+Developer;Website+Deverloper;Always+Learning+New+Things" />
 </p>
 <p align="center">
-  A passionate Frontend Developer from Ha Tinh,Vietnam. I love building beautiful and user-friendly web interfaces. My goal is to create great user experiences through clean, efficient, and modern code.
+  Hey, I'm Neo, I'm a Finance & Banking student at International University - VNU HCMC with a passion for technology and self-studying Computer Science. I enjoy building modern web applications, working with **NodeJS**, **JavaScript**, and creating beautiful user interfaces. On GitHub I work on projects ranging from personal portfolio websites to web tools like QR code generators and URL shorteners.
 </p>
 
 
 ### 😃 General Info:
 
-➣ Hey, I'm Neo, I'm a Finance & Banking student at International University - VNU HCMC with a passion for technology and self-studying Computer Science. I enjoy building modern web applications, working with **PHP**, **JavaScript**, and creating beautiful user interfaces. On GitHub I work on projects ranging from personal portfolio websites to web tools like QR code generators and URL shorteners.
-
-➣ I work with PHP and JavaScript for the most part, but I also know HTML/CSS, MySQL, and various web frameworks. I like to use modern web technologies and focus on creating responsive, user-friendly applications.
+➣ I work with Nodejs and JavaScript for the most part, but I also know HTML/CSS, MySQL, and various web frameworks. I like to use modern web technologies and focus on creating responsive, user-friendly applications.
 
 ➣ You can contact me at: `shayneeo@pt.io.vn`, Discord `ShayNeeo#8298`, or Telegram `https://t.me/shayneeo`
 
