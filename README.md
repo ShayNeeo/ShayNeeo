@@ -1,4 +1,15 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400"  alt="Developer Illustration">
+</div>
+
 <h1 align="center" height="200">Hi, I'm Pham Quoc Thanh (Neo)! 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=FF4B1F&center=true&vCenter=true&width=550&lines=Frontend+Developer;Website+Deverloper;Always+Learning+New+Things" />
+</p>
+<p align="center">
+  A passionate Frontend Developer from Ha Tinh,Vietnam. I love building beautiful and user-friendly web interfaces. My goal is to create great user experiences through clean, efficient, and modern code.
+</p>
+
 
 ### 😃 General Info:
 
