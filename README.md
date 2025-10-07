@@ -15,9 +15,9 @@
 
 ➣ I work with Nodejs and JavaScript for the most part, but I also know HTML/CSS, MySQL, and various web frameworks. I like to use modern web technologies and focus on creating responsive, user-friendly applications.
 
-➣ You can contact me at: `shayneeo@pt.io.vn`, Discord `ShayNeeo#8298`, or Telegram `https://t.me/shayneeo`
+➣ You can contact me at: `shayneeo@0.id.vn`, Discord `ShayNeeo#8298`, or Telegram `https://t.me/shayneeo`
 
-➣ **Current GPA**: 3.39/4 | **Languages**: Vietnamese (Native), English (Fluently), Mandarin (Beginner) | **Location**: Ho Chi Minh City, Vietnam
+➣ **Current GPA**: 3.25/4 | **Languages**: Vietnamese (Native), English (Fluently), Mandarin (Beginner) | **Location**: Ho Chi Minh City, Vietnam
 
 ➣ **I self-host DNS resolvers in 4 regions**: Tokyo (TYO), Singapore (SGP), US-East South Carolina, and Frankfurt for optimal global performance.
 
