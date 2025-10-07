@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AF7D7&background=233ABE6E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Website+Developer;Eager+to+Learn+New+Things;Always+Stay+Positive+Guys!" />
 </p>
 <p align="center">
-  Hey, I'm Neo, I'm a Finance & Banking student at International University - VNU HCMC with a passion for technology and self-studying Computer Science. I enjoy building modern web applications, working with **NodeJS**, **JavaScript**, and creating beautiful user interfaces. On GitHub I work on projects ranging from personal portfolio websites to web tools like QR code generators and URL shorteners.
+  Hey, I'm Neo, I'm a Finance & Banking student at International University - VNU HCMC with a passion for technology and self-studying Computer Science. I enjoy building modern web applications, working with NodeJS, JavaScript, and creating beautiful user interfaces. On GitHub I work on projects ranging from personal portfolio websites to web tools like QR code generators and URL shorteners.
 </p>
 
 
