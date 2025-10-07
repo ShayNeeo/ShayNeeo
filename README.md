@@ -111,7 +111,7 @@
 **Bachelor of Finance & Banking**  
 *International University - VNU HCMC*  
 *Expected: 2023 - 2027*  
-*Accumulated GPA: 3.39/4*
+*Accumulated GPA: 3.25/4*
 
 ### 📜 Certifications & Awards:
 - Many academic awards before university
@@ -121,6 +121,7 @@
 ### 🌍 Languages:
 - Vietnamese (Native)
 - English (Fluently)
+- Mandarin (Beginner)
 
 </details>
 
