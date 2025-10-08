@@ -61,7 +61,7 @@
 ### 💻 Backend & Server Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,nodejs,apache,nginx" />
+    <img src="https://skillicons.dev/icons?i=php,nodejs,rust,nginx" />
   </a>
 </p>
 
