@@ -139,8 +139,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shayneeo/)
 
 <p float="left">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShayNeeo&theme=tokyonight&layout=compact&rand=TIMESTAMPT" height="150">
-	<img src="https://github-readme-stats.vercel.app/api?username=ShayNeeo&show_icons=true&theme=tokyonight&rand=TIMESTAMPT" height="150">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShayNeeo&theme=tokyonight&layout=compact" height="150">
+	<img src="https://github-readme-stats.vercel.app/api?username=ShayNeeo&show_icons=true&theme=tokyonight" height="150">
 </p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShayNeeo&bg_color=30649c&color=000000&line=dbfff8&point=000000&area=true&hide_border=true" align="center">
 
