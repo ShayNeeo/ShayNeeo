@@ -27,10 +27,9 @@
 
 - **Portfolio & Blog**: [shayneeo.id.vn](https://shayneeo.id.vn) - Main portfolio with personal blog
 - **Portfolio Alternative**: [sgn.is-a.dev](https://sgn.is-a.dev) - Secondary portfolio site  
-- **Project Vocab App**: [vocab.qzz.io](https://vocab.qzz.io) - Featured projects and demos
-- **Tools & Utilities**: [133979.xyz](https://133979.xyz) - Web tools and utilities
-- **AI Chatbot**: [shayneeo.id.vn/chatbot](https://shayneeo.id.vn/chatbot) - Custom AI chat interface
-- **Private Search Engine**: [search.shayneeo.id.vn](https://search.shayneeo.id.vn) - Privacy-focused search
+- **W9 Tools - Share Fast**: [W9.se](https://w9.se) - Featured projects and demos
+- **Mailing Server**: [w9.nu](https://w9.nu) - Mailing service using Microsft SMTP
+- **Restaurant Website**: [nguyenrestaurant.de](https://nguyenrestaurant.de) - Currently in use by the restaurant
 
 ---
 
