@@ -19,7 +19,7 @@
 
 ➣ **Current GPA**: 3.25/4 | **Languages**: Vietnamese (Native), English (Fluently), Mandarin (Beginner) | **Location**: Ho Chi Minh City, Vietnam
 
-➣ **I self-hosted almost everything I can. Open-source projects move the worl forward!**.
+➣ **I self-hosted almost everything I can. Open-source projects move the world forward!**.
 
 ---
 
@@ -37,6 +37,7 @@
 <summary>🏆 Current Achievements & Positions:</summary>
 
 ### 🏆 Recent Achievements:
+- 🎓 **Top 10 Analyst Team** - DAZONE2025 (FTU-HCMC)
 - 🎓 **Scholarship Winner** (Semester 1; 2023-2024)
 - 🏅 **Best Innovative Idea** - Green Innovation Camp 2024
 - 📚 **Online Math Tutor** (Grade 12) - Mar 2024 to Oct 2024
