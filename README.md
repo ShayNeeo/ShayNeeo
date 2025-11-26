@@ -25,7 +25,7 @@
 
 ### 🌐 My Live Projects & Websites:
 
-- **W9 Labs**: [w9.se](https://w9.se) - W9 Labs is a community-driven, open-source oriented team. We believe technology should be a commons, built by the community, for the community.
+- **W9 Labs**: [W9 Labs](https://github.com/w9labs) is a community-driven, open-source oriented team. We believe technology should be a commons, built by the community, for the community.
 - **Portfolio & Blog**: [shayneeo.id.vn](https://shayneeo.id.vn) - Main portfolio with personal blog
 - **Portfolio Alternative**: [sgn.is-a.dev](https://sgn.is-a.dev) - Secondary portfolio site  
 - **W9 Tools - Share Fast**: [W9.se](https://w9.se) - Featured projects and demos
