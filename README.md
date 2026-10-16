@@ -17,7 +17,7 @@
 
 ➣ You can contact me at: `shayneeo@0.id.vn`, Discord `ShayNeeo#8298`, or Telegram `https://t.me/shayneeo`
 
-➣ **Current GPA**: 3.25/4 | **Languages**: Vietnamese (Native), English (Fluently), Mandarin (Beginner) | **Location**: Ho Chi Minh City, Vietnam
+➣ **Current CPA**: 3.33/4 | **Languages**: Vietnamese (Native), English (Fluently), Mandarin (Beginner) | **Location**: Ho Chi Minh City, Vietnam
 
 ➣ **I self-hosted almost everything I can. Open-source projects move the world forward!**.
 
